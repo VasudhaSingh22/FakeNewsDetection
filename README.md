@@ -1,4 +1,4 @@
-# FakeNewsDetection:
+# Fake News Detection
 
 ## Introduction:
 Welcome to the Fake News Detection project repository! 
