@@ -11,6 +11,7 @@ We used a diverse dataset of labelled news articles to train and evaluate our mo
 build a robust and reliable detection system.
 
 **Link to the Dataset:** https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+**Glove Twitter Link:** https://www.kaggle.com/datasets/icw123/glove-twitter
 
 ## Methodology:
 In this project, we followed a comprehensive approach to fake news detection, combining both traditional machine learning algorithms 
